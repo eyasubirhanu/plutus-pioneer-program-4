@@ -22,6 +22,23 @@ This documentation looks better in GitBook at the following link: <https://iog-a
   * [The EUTxO-Model](https://youtu.be/ulYDNaEKf4g)
   * [Homework](https://youtu.be/Ey903I-R1KY)
 
+* [Lecture 2](https://www.youtube.com/playlist?list=PLNEK_Ejlx3x1-oF7NDy0MhXxG7k5O6ZOA)
+  * [Low-Level, Untyped Validation Scripts](https://youtu.be/3tcWCZV6L_w)
+  * [Using the Cardano CLI to Interact with Plutus](https://youtu.be/2MbzKzoBiak)
+  * [High-Level, Typed Validation Scripts](https://youtu.be/GT8OjOzsOb4)
+  * [Summary](https://youtu.be/F5ewN65Mn4I)
+  * [Homework](https://youtu.be/OR2IfD4oDjw)
+
+* [Lecture 3](https://www.youtube.com/playlist?list=PLNEK_Ejlx3x2zXSjHRKLSc5Jn9vJFA3_O)
+  * [Script Contexts](https://youtu.be/dcoYrIyEI4o)
+  * [Handling Time](https://youtu.be/LPzwMqOnWvk)
+  * [A Vesting Example](https://youtu.be/5D0O7q9UPJA)
+  * [Parameterized Contracts](https://youtu.be/ZSKVu32c5eA)
+  * [Offchain Code with Lucid](https://youtu.be/C8TuGSzhqXU)
+  * [Reference Scripts](https://youtu.be/Rnyc5YXVXew)
+  * [Homework](https://youtu.be/hdt4XqFeEyg)
+  * [Summary](https://youtu.be/gxan_u2pStE)
+
 ## Repository Structure
 
 The most relevant directories of this repository are structured as follows:
