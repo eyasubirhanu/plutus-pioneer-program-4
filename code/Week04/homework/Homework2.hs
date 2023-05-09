@@ -5,7 +5,7 @@
 {-# LANGUAGE ScopedTypeVariables   #-}
 {-# LANGUAGE TemplateHaskell       #-}
 
-module Homework2 where
+module Homework2 (saveVal,pubkey)where
 
 import           Plutus.V1.Ledger.Interval (contains)
 import           Plutus.V2.Ledger.Api
@@ -28,6 +28,8 @@ HINT: If you get stuck, take a look at Week03's lecture
 
 ---------------------------------------------------------------------------------------------------
 ----------------------------------- ON-CHAIN / VALIDATOR ------------------------------------------
+pubkey::PubKeyHash
+pubkey =  "cb0e91138a298c2de031498dfd4f03440bc7b3019461df496a9423d7"
 
 {-# INLINABLE mkParameterizedMisteryValidator #-}
 mkParameterizedMisteryValidator :: PubKeyHash -> POSIXTime -> () -> ScriptContext -> Bool
